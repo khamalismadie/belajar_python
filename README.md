@@ -1,6 +1,6 @@
 # belajar_python
-Aplikasi Menghitung Umur Menggunakan Python
+Hello welcome, I learn Python by example here
 <br>
-Kalkulator Penambahan
-<br>
-Menggunakan Kondisi if, elif dan else
+Feel free to check my code, you can update too here!
+Happy coding using Python!
+

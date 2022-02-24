@@ -11,3 +11,7 @@ def draw_cicle(turtle,color, size, x, y):
     turtle.begin_fill()
     turtle.circle(size)
     turtle.end_fill()
+
+# set background color
+bg = turtle.skin()
+bg.color("light blue")

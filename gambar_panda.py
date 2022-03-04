@@ -21,3 +21,10 @@ pen.up()
 pen.setpos(0,35)
 pen.down
 ring('white', 40)
+
+pen.ip()
+pen.setpos(-18,75)
+pen.down
+ring('black', 8)
+
+

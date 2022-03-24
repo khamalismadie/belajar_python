@@ -28,4 +28,6 @@ pen.down
 ring('black', 8)
 
 pen.up()
-
+pen.setpos(-18,75)
+pen.down
+ring('black',8)
